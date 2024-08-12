@@ -1,0 +1,58 @@
+site_name: Documentação TypeScript
+site_url: https://Nalberth-Ps.github.io/documentacao-typescript/
+site_author: Nalberth
+site_description: Documentação completa sobre TypeScript
+
+# Tema
+theme:
+  name: 'material'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  language: 'pt-BR'
+  code:
+    hljs_style: 'github-dark'
+
+# Navegação
+nav:
+  - Home: index.md
+  - Introdução: introducao.md
+  - Fundamentos:
+      - Tipos Básicos: fundamentos/tipos.md
+      - Funções: fundamentos/funcoes.md
+      - Enums: fundamentos/enum.md
+      - Union Types: fundamentos/union-types.md
+      - Readonly e Const: fundamentos/readonly-const.md
+  - Avançado:
+      - Classes: avancado/classes.md
+      - Generics: avancado/generics.md
+      - Decorators: avancado/decorators.md
+  - Ferramentas:
+      - TypeScript com React: ferramentas/react.md
+      - TypeScript com Node.js: ferramentas/node.md
+  - Práticas Recomendadas: praticas-recomendadas.md
+
+# Plugins
+plugins:
+  - search
+
+# Configurações de Markdown
+markdown_extensions:
+  - toc:
+      permalink: True
+  - admonition
+  - codehilite
+  - pymdownx.superfences
+
+# Repositório
+repo_name: Nalberth-Ps/documentacao-typescript
+repo_url: https://github.com/Nalberth-Ps/documentacao-typescript
+
+# Configurações extras
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Nalberth-Ps
