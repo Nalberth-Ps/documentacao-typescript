@@ -1,5 +1,5 @@
 # Documentação TypeScript
-Este repositório contém a documentação do projeto "Documentação TypeScript" utilizando o MkDocs. A documentação é escrita em arquivos Markdown (.md) e pode ser acessada pelo link fornecido abaixo.
+Este repositório contém a documentação do TypeScript utilizando o MkDocs. A documentação é escrita em arquivos Markdown (.md) e pode ser acessada pelo link fornecido abaixo.
 
 ## Estrutura do Projeto
 ***docs/:*** Pasta contendo os arquivos de documentação em Markdown (.md).
