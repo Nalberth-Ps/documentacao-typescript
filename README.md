@@ -11,11 +11,11 @@ Para visualizar a documentação localmente, siga os passos abaixo:
 
 1. Clone o repositório:
 ```go
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Nalberth-Ps/documentacao-typescript
 ```
 2. Acesse o diretório do projeto:
 ```go
-cd seu-repositorio
+cd documentacao-typescript
 ```
 3. Instale o MkDocs:
 ```go
