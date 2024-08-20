@@ -36,7 +36,7 @@ A documentação é publicada automaticamente via GitHub Pages. Qualquer altera�
 ## Acesse a Documentação
 A documentação completa pode ser acessada através do seguinte link:
 
-[Documentação no GitHub Pages](https://github.com/Nalberth-Ps/documentacao-typescript "Documentação no GitHub Pages")
+[Documentação no GitHub Pages](https://nalberth-ps.github.io/documentacao-typescript/)
 
 Integrantes
 - Nalberth
