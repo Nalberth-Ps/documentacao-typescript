@@ -14,7 +14,9 @@ O tipo `number` é usado para representar números, sejam eles inteiros ou de po
 let idade: number = 30;
 let temperatura: number = 36.5;
 ```
-Você pode usar `number` para representar idades, contagens, temperaturas, ou qualquer outro valor numérico.2. **String** O tipo `string` é usado para representar textos. Strings em TypeScript são delimitadas por aspas simples (`'`), aspas duplas (`"`), ou crases (`).**Exemplo:** 
+Você pode usar `number` para representar idades, contagens, temperaturas, ou qualquer outro valor numérico.
+
+### 2. **String** O tipo `string` é usado para representar textos. Strings em TypeScript são delimitadas por aspas simples (`'`), aspas duplas (`"`), ou crases (`).**Exemplo:** 
 
 ```typescript
 let nome: string = "Nalberth";
@@ -22,7 +24,7 @@ let saudacao: string = `Olá, ${nome}!`;
 ```
 
 Strings são ideais para armazenar nomes, mensagens, ou qualquer outro tipo de texto.
-3. **Boolean** O tipo `boolean` só pode ter dois valores: `true` ou `false`. Ele é usado em situações onde você precisa de uma condição binária, como para verificar se algo é verdadeiro ou falso.**Exemplo:** 
+### 3. **Boolean** O tipo `boolean` só pode ter dois valores: `true` ou `false`. Ele é usado em situações onde você precisa de uma condição binária, como para verificar se algo é verdadeiro ou falso.**Exemplo:** 
 
 ```typescript
 let isAluno: boolean = true;
@@ -32,7 +34,7 @@ let aprovado: boolean = false;
 Booleans são comumente usados em condicionais e loops.
 
 ## Tipos Complexos 
-4. **Array** Arrays em TypeScript são usados para armazenar uma coleção de valores do mesmo tipo. Você pode definir um array usando `tipo[]` ou `Array<tipo>`.**Exemplo:** 
+### 4. **Array** Arrays em TypeScript são usados para armazenar uma coleção de valores do mesmo tipo. Você pode definir um array usando `tipo[]` ou `Array<tipo>`.**Exemplo:** 
 
 ```typescript
 let numeros: number[] = [1, 2, 3, 4, 5];
